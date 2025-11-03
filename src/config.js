@@ -1,5 +1,5 @@
 const config = {
-    path: 'http://localhost:3000',
+    path: 'pos-service.deekrub.com',
     token_name: 'admin_token',
     headers: () => {
         return {
