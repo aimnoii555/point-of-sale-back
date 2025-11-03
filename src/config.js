@@ -1,5 +1,5 @@
 const config = {
-    path: 'pos-service.deekrub.com',
+    path: 'https://pos-service.deekrub.com',
     token_name: 'admin_token',
     headers: () => {
         return {
