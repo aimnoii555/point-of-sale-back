@@ -16,6 +16,7 @@ ChartJS.register(
     Legend
 )
 
+
 const Home = () => {
     const myDate = new Date();
     const [year, setYear] = useState(myDate.getFullYear())
